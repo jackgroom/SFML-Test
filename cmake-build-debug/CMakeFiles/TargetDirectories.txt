@@ -1,0 +1,3 @@
+C:/Users/jack-/CLionProjects/TestSFML/cmake-build-debug/CMakeFiles/TestSFML.dir
+C:/Users/jack-/CLionProjects/TestSFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jack-/CLionProjects/TestSFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir
